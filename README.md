@@ -13,8 +13,8 @@
 <h3 align="left">🔧 Technologies & Tools:</h3>
 <ul><b>CI/CD Tools</ul></b>
 <li>GitHub Actions & GitLab CI/CD – Automating workflows, pipelines, and deployments.</li>
-<li>Jenkins – Building and orchestrating complex CI/CD pipelines.</li></ul>
-<ul><b>Cloud Platforms</b>
+<li>Jenkins – Building and orchestrating complex CI/CD pipelines.</li>
+<ul><b>Cloud Platforms</ul></b>
 <li>AWS – EC2, S3, RDS, IAM, Lambda, ECS, EKS, CloudFormation, and more.</li>
 <li>Azure – App Services, AKS, Azure Pipelines, Functions, and Azure DevOps.</li></ul>
 <ul><b>Containers & Orchestration</b>
