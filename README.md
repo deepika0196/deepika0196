@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepika Singh</h1>
-<h3 align="center">I am a passionate DevOps engineer with expertise in implementing, managing, and scaling cloud-native infrastructure. I specialize in leveraging modern tools and best practices to enable seamless integration and delivery of applications.</h3>
+<h1 align="left">Hi 👋, I'm Deepika Singh</h1>
+<h3 align="left">I am a passionate DevOps engineer with expertise in implementing, managing, and scaling cloud-native infrastructure. I specialize in leveraging modern tools and best practices to enable seamless integration and delivery of applications.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
