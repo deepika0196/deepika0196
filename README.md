@@ -15,21 +15,22 @@
 <li>GitHub Actions & GitLab CI/CD – Automating workflows, pipelines, and deployments.</li>
 <li>Jenkins – Building and orchestrating complex CI/CD pipelines.</li>
 </ul>
-<ul>Cloud Platforms</ul>
-AWS – EC2, S3, RDS, IAM, Lambda, ECS, EKS, CloudFormation, and more.
-Azure – App Services, AKS, Azure Pipelines, Functions, and Azure DevOps.
-<ul>Containers & Orchestration</ul>
-Docker – Containerization and image management.
-Kubernetes – Deploying, managing, and scaling containerized applications.
-<ul>Infrastructure as Code (IaC)</ul>
-Terraform – Provisioning infrastructure using declarative configuration across AWS, Azure, and more.
-Monitoring & Logging
-Prometheus, Grafana, ELK Stack – Monitoring, alerting, and logging.
+<ul>Cloud Platforms
+<li>AWS – EC2, S3, RDS, IAM, Lambda, ECS, EKS, CloudFormation, and more.</li>
+<li>Azure – App Services, AKS, Azure Pipelines, Functions, and Azure DevOps.</li></ul>
+<ul>Containers & Orchestration
+<li>Docker – Containerization and image management.</li>
+<li>Kubernetes – Deploying, managing, and scaling containerized applications.</li></ul>
+<ul>Infrastructure as Code (IaC)
+<li>Terraform – Provisioning infrastructure using declarative configuration across AWS, Azure, and more.</li></ul>
+<ul>Monitoring & Logging
+<li>Prometheus, Grafana, ELK Stack – Monitoring, alerting, and logging.</li>
 <h3 align="left">🛠 Skills & Responsibilities:</h3>
-Architecting and implementing highly available, scalable, and secure cloud infrastructure.
-Automating provisioning, configuration management, and deployment pipelines.
-Managing Kubernetes clusters for containerized application deployment.
-Creating Infrastructure as Code (IaC) solutions with Terraform to manage cloud resources.
-Continuous integration and deployment (CI/CD) using Jenkins, GitLab CI/CD, and GitHub Actions.
-Monitoring and improving system performance, availability, and reliability.
-Collaborating with developers and operations teams to streamline workflows and ensure rapid, reliable releases.
+<ul>
+<li>Architecting and implementing highly available, scalable, and secure cloud infrastructure.</li>
+<li>Automating provisioning, configuration management, and deployment pipelines.</li>
+<li>Managing Kubernetes clusters for containerized application deployment.</li>
+<li>Creating Infrastructure as Code (IaC) solutions with Terraform to manage cloud resources.</li>
+<li>Continuous integration and deployment (CI/CD) using Jenkins, GitLab CI/CD, and GitHub Actions.</li>
+<li>Monitoring and improving system performance, availability, and reliability.</li>
+<li>Collaborating with developers and operations teams to streamline workflows and ensure rapid, reliable releases.</li>
