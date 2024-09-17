@@ -26,7 +26,7 @@
 <li>Prometheus, Grafana, ELK Stack – Monitoring, alerting, and logging.</li>
   
 <h3 align="left">🛠 Skills & Responsibilities:</h3> 
-<ul>
+
 <li>Architecting and implementing highly available, scalable, and secure cloud infrastructure.</li>
 <li>Automating provisioning, configuration management, and deployment pipelines.</li>
 <li>Managing Kubernetes clusters for containerized application deployment.</li>
@@ -34,4 +34,4 @@
 <li>Continuous integration and deployment (CI/CD) using Jenkins, GitLab CI/CD, and GitHub Actions.</li>
 <li>Monitoring and improving system performance, availability, and reliability.</li>
 <li>Collaborating with developers and operations teams to streamline workflows and ensure rapid, reliable releases.</li> 
-</ul>
+
