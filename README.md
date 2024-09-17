@@ -11,20 +11,21 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepika0196&show_icons=true&locale=en&layout=compact" alt="deepika0196" /></p>
 
 <h3 align="left">🔧 Technologies & Tools:</h3>
-CI/CD Tools
-GitHub Actions & GitLab CI/CD – Automating workflows, pipelines, and deployments.
-Jenkins – Building and orchestrating complex CI/CD pipelines.
-Cloud Platforms
+<ul>CI/CD Tools
+<li>GitHub Actions & GitLab CI/CD – Automating workflows, pipelines, and deployments.</li>
+<li>Jenkins – Building and orchestrating complex CI/CD pipelines.</li>
+</ul>
+<ul>Cloud Platforms</ul>
 AWS – EC2, S3, RDS, IAM, Lambda, ECS, EKS, CloudFormation, and more.
 Azure – App Services, AKS, Azure Pipelines, Functions, and Azure DevOps.
-Containers & Orchestration
+<ul>Containers & Orchestration</ul>
 Docker – Containerization and image management.
 Kubernetes – Deploying, managing, and scaling containerized applications.
-Infrastructure as Code (IaC)
+<ul>Infrastructure as Code (IaC)</ul>
 Terraform – Provisioning infrastructure using declarative configuration across AWS, Azure, and more.
 Monitoring & Logging
 Prometheus, Grafana, ELK Stack – Monitoring, alerting, and logging.
-<h3 align="left"> Skills and Responsibilities</h3>
+<h3 align="left">🛠 Skills & Responsibilities:</h3>
 Architecting and implementing highly available, scalable, and secure cloud infrastructure.
 Automating provisioning, configuration management, and deployment pipelines.
 Managing Kubernetes clusters for containerized application deployment.
